@@ -10,6 +10,7 @@ Full-stack developer and AI engineer from Odesa, Ukraine — **12+ years, 300+ p
 |---|---|
 | [**claude-code-kit**](https://github.com/Gunner91/claude-code-kit) | Ready-to-use Claude Code config: skills, hooks, subagents, CLAUDE.md templates, MCP examples |
 | [**site-ai-assistant**](https://github.com/Gunner91/site-ai-assistant) | Drop-in AI chat assistant for PHP websites: Markdown knowledge base, lead capture, cost limits |
+| [**kriatiz-opencart-audit**](https://github.com/Gunner91/kriatiz-opencart-audit) | Free malware, hack and SEO scanner for OpenCart & ocStore: core checksums, DB injections, cloaking, skimmers |
 
 ## What I do
 
