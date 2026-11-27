@@ -22,4 +22,4 @@ Full-stack developer and AI engineer from Odesa, Ukraine — **12+ years, 300+ p
 Estimate your project with the free [cost calculator](https://kriatiz.com/en/tools/calculator/).
 
 ---
-🇺🇦 [kriatiz.com/ua](https://kriatiz.com/ua/) · 🇷🇺 [kriatiz.com](https://kriatiz.com/)
+🇺🇦 [kriatiz.com/ua](https://kriatiz.com/ua/) ·  [kriatiz.com](https://kriatiz.com/)
